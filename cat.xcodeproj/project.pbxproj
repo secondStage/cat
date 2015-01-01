@@ -20,7 +20,7 @@
 		C78937B21A470DAB00477018 /* catgoro01.png in Resources */ = {isa = PBXBuildFile; fileRef = C78937A61A470DAB00477018 /* catgoro01.png */; };
 		C78937B31A470DAB00477018 /* catniko01.png in Resources */ = {isa = PBXBuildFile; fileRef = C78937A71A470DAB00477018 /* catniko01.png */; };
 		C78937B41A470DAB00477018 /* catniko02.png in Resources */ = {isa = PBXBuildFile; fileRef = C78937A81A470DAB00477018 /* catniko02.png */; };
-		C78937B51A470DAB00477018 /* catogoro02.png in Resources */ = {isa = PBXBuildFile; fileRef = C78937A91A470DAB00477018 /* catogoro02.png */; };
+		C78937B51A470DAB00477018 /* catgoro02.png in Resources */ = {isa = PBXBuildFile; fileRef = C78937A91A470DAB00477018 /* catgoro02.png */; };
 		C78937B61A470DAB00477018 /* catsad01.png in Resources */ = {isa = PBXBuildFile; fileRef = C78937AA1A470DAB00477018 /* catsad01.png */; };
 		C78937B71A470DAB00477018 /* catsad02.png in Resources */ = {isa = PBXBuildFile; fileRef = C78937AB1A470DAB00477018 /* catsad02.png */; };
 		C78937B81A470DAB00477018 /* catsleep.png in Resources */ = {isa = PBXBuildFile; fileRef = C78937AC1A470DAB00477018 /* catsleep.png */; };
@@ -55,7 +55,7 @@
 		C78937A61A470DAB00477018 /* catgoro01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = catgoro01.png; sourceTree = "<group>"; };
 		C78937A71A470DAB00477018 /* catniko01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = catniko01.png; sourceTree = "<group>"; };
 		C78937A81A470DAB00477018 /* catniko02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = catniko02.png; sourceTree = "<group>"; };
-		C78937A91A470DAB00477018 /* catogoro02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = catogoro02.png; sourceTree = "<group>"; };
+		C78937A91A470DAB00477018 /* catgoro02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = catgoro02.png; sourceTree = "<group>"; };
 		C78937AA1A470DAB00477018 /* catsad01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = catsad01.png; sourceTree = "<group>"; };
 		C78937AB1A470DAB00477018 /* catsad02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = catsad02.png; sourceTree = "<group>"; };
 		C78937AC1A470DAB00477018 /* catsleep.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = catsleep.png; sourceTree = "<group>"; };
@@ -145,9 +145,9 @@
 				C78937A41A470DAB00477018 /* cateee01.png */,
 				C78937A51A470DAB00477018 /* cateee02.png */,
 				C78937A61A470DAB00477018 /* catgoro01.png */,
+				C78937A91A470DAB00477018 /* catgoro02.png */,
 				C78937A71A470DAB00477018 /* catniko01.png */,
 				C78937A81A470DAB00477018 /* catniko02.png */,
-				C78937A91A470DAB00477018 /* catogoro02.png */,
 				C78937AA1A470DAB00477018 /* catsad01.png */,
 				C78937AB1A470DAB00477018 /* catsad02.png */,
 				C78937AC1A470DAB00477018 /* catsleep.png */,
@@ -243,7 +243,7 @@
 				C78937B61A470DAB00477018 /* catsad01.png in Resources */,
 				C78937AF1A470DAB00477018 /* cat02.png in Resources */,
 				C78937B41A470DAB00477018 /* catniko02.png in Resources */,
-				C78937B51A470DAB00477018 /* catogoro02.png in Resources */,
+				C78937B51A470DAB00477018 /* catgoro02.png in Resources */,
 				C78937AE1A470DAB00477018 /* cat01.png in Resources */,
 				C789378C1A470D8400477018 /* LaunchScreen.xib in Resources */,
 				C78937891A470D8400477018 /* Images.xcassets in Resources */,
@@ -461,6 +461,7 @@
 				C789379D1A470D8500477018 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C789379E1A470D8500477018 /* Build configuration list for PBXNativeTarget "catTests" */ = {
 			isa = XCConfigurationList;
@@ -469,6 +470,7 @@
 				C78937A01A470D8500477018 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
